@@ -3,7 +3,7 @@ const app = express();
 const port = 7000;
 
 app.get('/', (req, res) => {
-  res.send('Hello nginx to configure Express!');
+  res.send('Hello  configure github within ci jenkins');
 });
 
 app.listen(port, () => {
